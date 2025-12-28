@@ -1,5 +1,5 @@
 function openYoutube() {
-    window.open("https://www.youtube.com", "_blank");
+    window.open("https://youtu.be/7QyrOKp9v0A?si=bTGSjTSW358qEiXq", "_blank");
 }
 
 function downloadPDF() {
