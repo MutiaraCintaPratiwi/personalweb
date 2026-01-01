@@ -4,5 +4,5 @@ function openYoutube() {
 
 function downloadPDF() {
     alert("Download PDF");
-    window.location.href = "assets/pdf/materi-jaringan.pdf";
+    window.location.href = "LaporanAss3Mutiara.pdf";
 }
